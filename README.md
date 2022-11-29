@@ -7,7 +7,7 @@
     Predict the Price per sqft for each House.
     
 ## Performance Metric:
-    Mean Absolute Error to know the absolute deference between Actual and Predicted values
+    Mean Absolute Error to know the absolute difference between Actual and Predicted values
   
 ## Machine Learning Objective and Constraints:
     This is a Regression problem, so applying the regression models such as:
