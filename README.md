@@ -15,7 +15,7 @@
     * Support Vector Machine
     * Random Forest Regression
 ## Result:
-    Random Forest Regression model is giving better accuracy as the mean absolute error is the least among all the other regressor models i.e. 0.14 approx.
+    Random Forest Regression model gives better accuracy as the mean absolute error is the least among all the other regressor models i.e. 0.14 approx.
     
     
     
